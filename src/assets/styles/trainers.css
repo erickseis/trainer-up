@@ -74,11 +74,11 @@
   filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5));
 }
 .background-camilo img {
-  width: 320px;
+  width: 300px;
   position: absolute;
   z-index: 1;
   margin-top: -21.5rem;
-  margin-left: 5rem;
+  margin-left: 6rem;
   mask-image: linear-gradient(to top, rgba(0, 0, 0, 0.082), rgb(0, 0, 0));
   filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5));
 }
