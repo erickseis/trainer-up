@@ -12,7 +12,7 @@
   );
 
   width: 100%;
-  height: 100vh;
+  height: 113vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -21,7 +21,7 @@
 .logo img {
   width: 300px;
   height: 150px;
-  margin-top: 5rem;
+  /* margin-top: 5rem; */
   margin-left: 3.5rem;
 }
 .img-skils img {
@@ -102,9 +102,11 @@
     rgba(0, 0, 0, 0) 100%
   );
   animation: zoom 2s infinite;
-  position: relative;
+  position: absolute;
   z-index: 2;
   text-shadow: 2px 2px 4px #241d22;
+  margin-left: -4rem;
+  margin-top: -3rem;
 }
 .button-home::before {
   content: '';
