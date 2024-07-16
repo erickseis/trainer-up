@@ -57,7 +57,9 @@ const Trainers = () => {
         </div>
       </div>
       <div className='button-container'>
-        <button className='button-home'>SUSCRIBIRME</button>
+        <a href='https://wa.me/+56958620490' className='button-home'>
+          SUSCRIBIRME
+        </a>
       </div>
     </div>
   );
