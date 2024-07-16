@@ -84,7 +84,7 @@
   position: absolute;
   z-index: 1;
   margin-top: -20.5rem;
-  margin-left: 7.4rem;
+  margin-left: 6.5rem;
   mask-image: linear-gradient(to top, rgba(0, 0, 0, 0.082), rgb(0, 0, 0));
   filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5));
 }
@@ -115,7 +115,7 @@
   position: absolute;
   z-index: 2;
   text-shadow: 2px 2px 4px #241d22;
-  margin-left: -1rem;
+  margin-left: -2rem;
   margin-top: -8rem;
 }
 .button-home::before {
