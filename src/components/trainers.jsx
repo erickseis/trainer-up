@@ -16,7 +16,7 @@ const Trainers = () => {
       <div className='video'>
         <iframe
           width='400'
-          height='255'
+          height='200'
           src='https://www.youtube.com/embed/GQBvvA1HtTE?si=9D8mJaiPr7hvdYm3'
           title='YouTube video player'
           frameborder='0'
