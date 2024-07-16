@@ -108,7 +108,7 @@
   z-index: 2;
   text-shadow: 2px 2px 4px #241d22;
   margin-left: -4rem;
-  margin-top: -3rem;
+  margin-top: -6rem;
 }
 .button-home::before {
   content: '';
