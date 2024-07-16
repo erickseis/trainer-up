@@ -24,6 +24,7 @@
   margin-top: -3rem;
   margin-left: 3.5rem;
 }
+
 .img-skils img {
   width: 60px;
   height: 60px;
@@ -43,6 +44,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin-top: 2rem;
+  margin-left: -2rem;
 }
 .skils-general ul {
   list-style: none;
@@ -65,7 +67,7 @@
 }
 .img-skils ul {
   position: relative;
-  margin-left: 2rem;
+  margin-left: 7rem;
   z-index: 6;
   filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5));
 }
