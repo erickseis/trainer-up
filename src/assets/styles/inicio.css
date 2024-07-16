@@ -88,3 +88,16 @@
     transform: scale(1.2);
   }
 }
+.spinner-container {
+  background: rgb(0, 0, 0);
+  background: radial-gradient(
+    circle,
+    rgba(0, 0, 0, 1) 58%,
+    rgba(0, 0, 0, 1) 69%,
+    rgba(89, 86, 152, 1) 100%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Altura completa de la ventana */
+}
