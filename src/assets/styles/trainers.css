@@ -37,7 +37,8 @@
 }
 .camilo-letter {
   height: 250px;
-  margin-bottom: -8rem;
+  margin-top: -2rem;
+  margin-bottom: -6rem;
   filter: drop-shadow(0 4px 8px rgba(37, 37, 37, 0.833));
 }
 .skils-general {
